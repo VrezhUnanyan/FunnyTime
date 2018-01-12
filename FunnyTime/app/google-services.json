@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98506200997",
+    "firebase_url": "https://funnytime-f6690.firebaseio.com",
+    "project_id": "funnytime-f6690",
+    "storage_bucket": "funnytime-f6690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98506200997:android:eab7960347b3709a",
+        "android_client_info": {
+          "package_name": "com.funny.funnytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98506200997-b9gsnip29phbh4og84ds3ji9udob8t2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funny.funnytime",
+            "certificate_hash": "4313e1b1cae95635d23061e9d600f7134b43ccb8"
+          }
+        },
+        {
+          "client_id": "98506200997-57onkiuvcr7rv6mc8ulv3acggtt3ut27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJt9jPeiVk-Ll9m8DDaz5-o5vCOwwuR8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98506200997-57onkiuvcr7rv6mc8ulv3acggtt3ut27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
